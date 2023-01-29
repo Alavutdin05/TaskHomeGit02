@@ -9,8 +9,8 @@
 using static System.Console;
 Clear();
 
-int [,] array1=FillArrayRandom();
-int [,] array2=FillArrayRandom();
+int [,] array1=GetRandom();
+int [,] array2=GetRandom();
 
 PrintMatrix(array1);
 WriteLine();
@@ -41,7 +41,7 @@ int[,] GetMatrix(int[,] matrix1, int[,] matrix2)
 }
 
 
-int [,] FillArrayRandom()
+int [,] GetRandom()
 {
   int [,] result = new int [2,2];
     for (int i = 0; i < result.GetLength(0); i++)
@@ -55,18 +55,16 @@ int [,] FillArrayRandom()
 }
 
 
-
-
 void PrintMatrix(int[,] matrix)
 {
     for (int i = 0; i < matrix.GetLength(0); i++)
     {
-        Console.Write("|");
+        Write("|");
         for (int j = 0; j < matrix.GetLength(1); j++)
         {
-            if (j < matrix.GetLength(1) - 1) Console.Write($"{matrix[i, j],1}|");
-            else Console.Write($"{matrix[i, j],1}");
+            if (j < matrix.GetLength(1) - 1) Write($"{matrix[i, j],1}|");
+            else Write($"{matrix[i, j],1}");
         }
-        Console.WriteLine("|");
+        WriteLine("|");
     }
 }
