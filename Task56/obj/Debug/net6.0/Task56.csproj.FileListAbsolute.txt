@@ -1,0 +1,15 @@
+D:\GeekBrains\Seminal 4\GBTasksD\GBTasksD\Task56\bin\Debug\net6.0\Task56.exe
+D:\GeekBrains\Seminal 4\GBTasksD\GBTasksD\Task56\bin\Debug\net6.0\Task56.deps.json
+D:\GeekBrains\Seminal 4\GBTasksD\GBTasksD\Task56\bin\Debug\net6.0\Task56.runtimeconfig.json
+D:\GeekBrains\Seminal 4\GBTasksD\GBTasksD\Task56\bin\Debug\net6.0\Task56.dll
+D:\GeekBrains\Seminal 4\GBTasksD\GBTasksD\Task56\bin\Debug\net6.0\Task56.pdb
+D:\GeekBrains\Seminal 4\GBTasksD\GBTasksD\Task56\obj\Debug\net6.0\Task56.csproj.AssemblyReference.cache
+D:\GeekBrains\Seminal 4\GBTasksD\GBTasksD\Task56\obj\Debug\net6.0\Task56.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Seminal 4\GBTasksD\GBTasksD\Task56\obj\Debug\net6.0\Task56.AssemblyInfoInputs.cache
+D:\GeekBrains\Seminal 4\GBTasksD\GBTasksD\Task56\obj\Debug\net6.0\Task56.AssemblyInfo.cs
+D:\GeekBrains\Seminal 4\GBTasksD\GBTasksD\Task56\obj\Debug\net6.0\Task56.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Seminal 4\GBTasksD\GBTasksD\Task56\obj\Debug\net6.0\Task56.dll
+D:\GeekBrains\Seminal 4\GBTasksD\GBTasksD\Task56\obj\Debug\net6.0\refint\Task56.dll
+D:\GeekBrains\Seminal 4\GBTasksD\GBTasksD\Task56\obj\Debug\net6.0\Task56.pdb
+D:\GeekBrains\Seminal 4\GBTasksD\GBTasksD\Task56\obj\Debug\net6.0\Task56.genruntimeconfig.cache
+D:\GeekBrains\Seminal 4\GBTasksD\GBTasksD\Task56\obj\Debug\net6.0\ref\Task56.dll
